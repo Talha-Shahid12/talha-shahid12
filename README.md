@@ -1,11 +1,11 @@
 <br><br>
 <div align="left">
-  <a href="https://app.daily.dev/talha-shahid12" target="_blank">
+  <a href="https://app.daily.dev/Talha-Shahid12" target="_blank">
     <img
       width="300"
       height="400"
       align="right"
-      src="https://github.com/Talha-Shahid12/talha-shahid12/blob/main/talha-shahid12/talha.png" alt="Talha's Dev Card"
+      src="https://github.com/Talha-Shahid12/Talha-Shahid12/blob/main/talha.png" alt="Talha's Dev Card"
     />
   </a>
 </div>
