@@ -5,7 +5,7 @@
       width="300"
       height="400"
       align="right"
-      src="https://github.com/Talha-Shahid12/talha-shahid12/blob/main/talha-shahid12/devcard.png" alt="Talha's Dev Card"
+      src="https://github.com/Talha-Shahid12/talha-shahid12/blob/main/talha-shahid12/talha.png" alt="Talha's Dev Card"
     />
   </a>
 </div>
