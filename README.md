@@ -12,7 +12,7 @@
 
 
 <h2> Hi👋, I am Talha Shahid </h2>
-  <a href="https://drive.google.com/file/d/15ksbGVZmlmXPyiy-YlCcPr_EA6po15Wc/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1ev9qa_liOLRsFnzIdGTyMpBUfN9IC1f0/view?usp=drive_link">
     <img
       src="https://img.shields.io/badge/Resume--brightgreen?style=flat-square&logo=standardresume&labelColor=healthiness"
       alt="Resume"
